@@ -1,0 +1,35 @@
+{
+  "name": "mar-quee",
+  "version": "0.1.1",
+  "homepage": "https://github.com/yutori/mar-quee",
+  "description": "Custom Element instead of <marquee>",
+  "main": "mar-quee.html",
+  "keywords": [
+    "web-components",
+    "marquee"
+  ],
+  "authors": [
+    "yutori"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "0.7.1"
+  },
+  "_release": "0.1.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.1",
+    "commit": "a4cc7776a14948d9a6f6336ff27cfb98db1ff31e"
+  },
+  "_source": "git://github.com/yutori/mar-quee.git",
+  "_target": "~0.1.1",
+  "_originalSource": "mar-quee",
+  "_direct": true
+}
